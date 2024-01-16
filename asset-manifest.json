@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "//llladno.github.io/picassoTask/static/css/main.f7a9f582.css",
-    "main.js": "//llladno.github.io/picassoTask/static/js/main.0f8c256b.js",
+    "main.js": "//llladno.github.io/picassoTask/static/js/main.3858ff70.js",
     "index.html": "//llladno.github.io/picassoTask/index.html",
     "main.f7a9f582.css.map": "//llladno.github.io/picassoTask/static/css/main.f7a9f582.css.map",
-    "main.0f8c256b.js.map": "//llladno.github.io/picassoTask/static/js/main.0f8c256b.js.map"
+    "main.3858ff70.js.map": "//llladno.github.io/picassoTask/static/js/main.3858ff70.js.map"
   },
   "entrypoints": [
     "static/css/main.f7a9f582.css",
-    "static/js/main.0f8c256b.js"
+    "static/js/main.3858ff70.js"
   ]
 }
